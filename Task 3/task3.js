@@ -10,4 +10,4 @@ function integer(a, b) {
   }
 }
 
-integer(8, 10);
+integer(10, 10);
